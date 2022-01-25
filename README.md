@@ -31,7 +31,7 @@ I am also interested in creating desktop applications using tkinter and working 
      languages: [Python, Java, C, C++, Javascript, PHP,SQL],
      # Libraries I often use or have worked with
      libraries_and_frameworks: ["tkinter", "flask", "openCV", "Django", "Bootstrap", "pygame",
-                                 "material-ui"],
+                                 "Bcrypt","Pillow","Faker","Express"],
      # Software and applications I prefer                       
      software_and_applications: [pycharm, jupyter-notebook, vs-code, anaconda,
                                   photoshop, adobe premiere pro, sublime-text]
