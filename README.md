@@ -5,6 +5,18 @@
 I am interested in Python Programming, Full Stack Development and Backend Development.
 I am also interested in creating desktop applications using tkinter and working on computer vision projects.</p>
 
+<!--<div>
+    <div class="row">
+        <div class="col-12">
+    <img src="https://user-images.githubusercontent.com/72432752/151000409-1fe57d75-921c-4659-afa7-4eb6de05cf4b.png" width="75" height="75">
+        </div>
+        <div class="col-12">
+    <p>I have an instragram account dedicated to programming named Programming Freak, where I post python and web projects that I made. </p>
+        </div>
+    </div>
+</div>-->
+
+
 
 
 
