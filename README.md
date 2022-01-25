@@ -1,16 +1,4 @@
-<html>
-    
-    <head>
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
-<!-- Optional theme -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-
-<!-- Latest compiled and minified JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-    </head>
-
-<body>
 <h1>Hi, I'm GM Varun! <img src="https://user-images.githubusercontent.com/72432752/150909718-fd4ff39e-6dde-4855-a31e-63d041577107.png"></h1>
 
 <p>I am currently a B.Tech student in computer science Reva University, Bangalore.
@@ -73,6 +61,4 @@ I am also interested in creating desktop applications using tkinter and working 
     <li> Full Stack Web Development Projects </li>
     <li> Desktop Apps Development Projects </li>  
  </ul>
- </body>
-    
- </html>
+
