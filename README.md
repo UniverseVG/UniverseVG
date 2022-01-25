@@ -1,4 +1,4 @@
-<h2>Hi, I'm GM Varun!<img src="https://user-images.githubusercontent.com/72432752/150812186-991b0c21-e1c3-4816-9169-4065c1abd36d.jpg" height="40" width="40" ></h2>
+<h2>Hi, I'm GM Varun!<img src="https://user-images.githubusercontent.com/72432752/150908196-bd340437-280c-49ba-9927-f48c2383201a.png" height=60 width=50></h2>
 
 <p>I am currently a B.Tech student in computer science Reva University, Bangalore.
 I am interested in Python Programming, Full Stack Development and Backend Development.
