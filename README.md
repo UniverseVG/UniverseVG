@@ -34,7 +34,7 @@ I am also interested in creating desktop applications using tkinter and working 
                                  "Bcrypt","Pillow","Faker","Express"],
      # Software and applications I prefer                       
      software_and_applications: [pycharm, jupyter-notebook, vs-code, anaconda,
-                                  photoshop, adobe premiere pro, sublime-text]
+                                  photoshop, adobe premiere pro, sublime-text,canva]
  }
  
  if year == 2023:
