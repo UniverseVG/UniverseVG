@@ -41,3 +41,20 @@ I am also interested in creating desktop applications using tkinter and working 
     goals = ["Improve-Skills", "Contribute-In-Open-Source", "Upgrade-Profile", "Learn-Something-New", "Start something new"]
     extras = ["Coding", "Interested about space and it's unknown secrets", " Love playing cricket"]
  ```
+ 
+ <h4>My Interests:</h4>
+ <ul>
+    <li> Full Stack Web Development</li>
+    <li> Desktop Apps Development </li>
+    <li> Backend Development </li>
+    <li> Photo and Video Editing </li>
+    <li> Content Creation </li>    
+ </ul>
+    
+ <h4>I am open for:</h4>
+ <ul>
+    <li> Any collobration work (related to my interest fields)</li>
+    <li> Internships and research </li>
+    <li> Full Stack Web Development Projects </li>
+    <li> Desktop Apps Development Projects </li>  
+ </ul>
