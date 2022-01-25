@@ -12,14 +12,14 @@ I am also interested in creating desktop applications using tkinter and working 
 <a href="https://github.com/UniverseVG" target="_blank">
 <img src="https://img.shields.io/badge/github-%23000000.svg?&logo=github" >
 </a>
-<a href="https://www.linkedin.com/in/varun-gm-86694a1a4/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%23000000.svg?&logo=linkedin">
-</a>
 <a href="https://twitter.com/GMVarun2" target="_blank">
 <img src="https://img.shields.io/badge/twitter-%23FFFFFF.svg?&logo=twitter" >
 </a>
-<a href="https://varunportfolio.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/website-%23000000.svg?&logo=website">
+<a href="https://www.linkedin.com/in/varun-gm-86694a1a4/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%23000000.svg?&logo=linkedin">
+</a>
+<a href="https://www.facebook.com/gmvarun.varun.5/" target="_blank">
+<img src="https://img.shields.io/badge/facebook-%23FFFFFF.svg?&logo=facebook">
 </a>
     
     
