@@ -16,9 +16,6 @@ I am also interested in creating desktop applications using tkinter and working 
     </div>
 </div>-->
 
-<img src="https://user-images.githubusercontent.com/72432752/151004238-78caacda-c786-44ee-b693-65a8d9ee931b.png" width="500" >
-
-
 
 
 
@@ -37,6 +34,19 @@ I am also interested in creating desktop applications using tkinter and working 
 </a>
 <a href="https://www.facebook.com/gmvarun.varun.5/" target="_blank">
 <img src="https://img.shields.io/badge/facebook-%23FFFFFF.svg?&logo=facebook">
+</a>
+
+<h4>Content Creator in Instagram:</h4>
+<img src="https://user-images.githubusercontent.com/72432752/151004238-78caacda-c786-44ee-b693-65a8d9ee931b.png" width="500" >
+<h6>Connect with programming freak here:</h6>
+<a href="https://www.instagram.com/programming_freak3/" target="_blank">
+<img src="https://img.shields.io/badge/instagram-%23FFFFFF.svg?&logo=instagram">
+</a>
+<br>
+<img src="https://user-images.githubusercontent.com/72432752/151006371-77fba884-6adb-4a31-b309-c3fb71e02f49.png" width="500">
+<h6>Connect with space freak here:</h6>
+<a href="https://www.instagram.com/space_freak3/" target="_blank">
+<img src="https://img.shields.io/badge/instagram-%23FFFFFF.svg?&logo=instagram">
 </a>
     
     
