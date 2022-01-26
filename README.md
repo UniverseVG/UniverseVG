@@ -81,6 +81,7 @@ I am also interested in creating desktop applications using tkinter and working 
  <h4>I am open for:</h4>
  <ul>
     <li> Any collobration work (related to my interest fields)</li>
+    <li> Any collobration with my programming freak and space freak insta accounts (if interested DM in respective insta accounts)</li>
     <li> Internships and research </li>
     <li> Full Stack Web Development Projects </li>
     <li> Desktop Apps Development Projects </li>  
