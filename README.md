@@ -1,7 +1,7 @@
 
 <h1>Hi, I'm GM Varun! <img src="https://user-images.githubusercontent.com/72432752/150909718-fd4ff39e-6dde-4855-a31e-63d041577107.png"></h1>
 
-<p>Currently I am Studying 3rd Year B. Tech Computer Science at Reva University in Bangalore, India. I'm a Full Stack Web Developer and Python Programmer. I have made made many websites using Python Django and lot of frontend projects using HTML,CSS, JavaScript and Bootstrap and I am also interested in creating applications using Python's Tkinter and pyqt5 too. </p>
+<p>Currently I am Studying 3rd Year B. Tech Computer Science at Reva University in Bangalore, India. I'm a Full Stack Web Developer and Python Programmer. I have made  many websites using Python Django and lot of frontend projects using HTML,CSS, JavaScript and Bootstrap and I am also interested in creating applications using Python's Tkinter and pyqt5 too. </p>
 
 <!--<div>
     <div class="row">
