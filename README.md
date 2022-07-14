@@ -1,7 +1,7 @@
 
 <h1>Hi, I'm GM Varun! <img src="https://user-images.githubusercontent.com/72432752/150909718-fd4ff39e-6dde-4855-a31e-63d041577107.png"></h1>
 
-<p>Currently I am Studying 4th Year B. Tech Computer Science at Reva University in Bangalore, India. I'm a Full Stack Web Developer and Python Programmer. I have made  many websites using Python Django and lot of frontend projects using HTML,CSS, JavaScript and Bootstrap and I am also interested in creating applications using Python's Tkinter and pyqt5 too. </p>
+<p>Currently, I have finished my 3rd Year B. Tech in Computer Science at Reva University in Bangalore, India. I'm a Full Stack Web Developer and Backend Developer.I have made many websites from scratch using python Django as the backend framework  and lot of frontend projects using HTML,CSS, JavaScript and Bootstrap.I like developing applications from scratch and will never give up until all the errors/bugs are fixed. I am an excellent team worker and am able to take instructions from all levels and build up good working relationships with all colleagues. I am flexible, reliable and possess excellent time keeping skills. </p>
 
 <!--<div>
     <div class="row">
