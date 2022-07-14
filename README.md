@@ -1,7 +1,7 @@
 
 <h1>Hi, I'm GM Varun! <img src="https://user-images.githubusercontent.com/72432752/150909718-fd4ff39e-6dde-4855-a31e-63d041577107.png"></h1>
 
-<p>Currently I am Studying 3rd Year B. Tech Computer Science at Reva University in Bangalore, India. I'm a Full Stack Web Developer and Python Programmer. I have made  many websites using Python Django and lot of frontend projects using HTML,CSS, JavaScript and Bootstrap and I am also interested in creating applications using Python's Tkinter and pyqt5 too. </p>
+<p>Currently I am Studying 4th Year B. Tech Computer Science at Reva University in Bangalore, India. I'm a Full Stack Web Developer and Python Programmer. I have made  many websites using Python Django and lot of frontend projects using HTML,CSS, JavaScript and Bootstrap and I am also interested in creating applications using Python's Tkinter and pyqt5 too. </p>
 
 <!--<div>
     <div class="row">
@@ -53,13 +53,11 @@
  ```python
  me = {
      # Languages I am interested in
-     languages: [Python, Java, C, C++, Javascript, PHP,SQL],
+     languages: [Python, HTML, CSS, Javascript, MySQL],
      # Libraries I often use or have worked with
-     libraries_and_frameworks: ["tkinter", "flask", "openCV", "Django", "Bootstrap", "pygame",
-                                 "Bcrypt","Pillow","Faker","Express"],
+     libraries_and_frameworks: [ "Django", "Bootstrap"],
      # Software and applications I prefer                       
-     software_and_applications: [pycharm, jupyter-notebook, vs-code, anaconda,
-                                  photoshop, adobe premiere pro, sublime-text,canva]
+     software_and_applications: [pycharm, jupyter-notebook, vs-code, sublime-text,canva]
  }
  
  if year == 2023:
@@ -70,7 +68,6 @@
  <h4>My Interests:</h4>
  <ul>
     <li> Full Stack Web Development</li>
-    <li> Desktop Apps Development </li>
     <li> Backend Development </li>
     <li> Photo and Video Editing </li>
     <li> Content Creation </li>    
@@ -82,6 +79,6 @@
     <li> Any collobration with my programming freak and space freak insta accounts (if interested DM in respective insta accounts)</li>
     <li> Internships and research </li>
     <li> Full Stack Web Development Projects </li>
-    <li> Desktop Apps Development Projects </li>  
+  
  </ul>
 
