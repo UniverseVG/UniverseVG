@@ -57,7 +57,7 @@
      # Libraries I often use or have worked with
      libraries_and_frameworks: [ "Django", "Bootstrap"],
      # Software and applications I prefer                       
-     software_and_applications: [pycharm, jupyter-notebook, vs-code, sublime-text,canva]
+     software_and_applications: [pycharm, vs-code, sublime-text,canva]
  }
  
  if year == 2023:
