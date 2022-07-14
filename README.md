@@ -61,8 +61,8 @@
  }
  
  if year == 2023:
-    goals = ["Improve-Skills", "Contribute-In-Open-Source", "Upgrade-Profile", "Learn-Something-New", "Start something new"]
-    extras = ["Coding", "Interested about space and it's unknown secrets", " Love playing cricket"]
+    goals = ["Improve-Skills", "Upgrade-Profile", "Learn-Something-New", "Start something new"]
+    extras = ["Coding", "Interested about space and it's unknown secrets", " Love playing cricket","Listening to podcasts"]
  ```
  
  <h4>My Interests:</h4>
