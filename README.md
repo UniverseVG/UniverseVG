@@ -65,11 +65,11 @@ resource provisioning. </p>
  ```python
  me = {
      # Languages I am interested in
-     languages: [Python, HTML, CSS, Javascript, MySQL],
+     languages: [HTML, CSS, Javascript, MongoDB],
      # Libraries I often use or have worked with
-     libraries_and_frameworks: [ "Django", "Bootstrap"],
+     libraries_and_frameworks: [ "ReactJS", "NextJS", "NestJS", "React Native"],
      # Software and applications I prefer                       
-     software_and_applications: [pycharm, vs-code, sublime-text,canva]
+     software_and_applications: [vs-code, sublime-text,canva]
  }
  
  if year == 2023:
